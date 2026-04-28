@@ -9,7 +9,9 @@ This repository contains the implementation of the Master's Thesis project focus
 * **Institution:** Tecnológico Nacional de México, Campus León.
 * **By: María Arellano** - *Main Developer & Researcher*
 * **Thesis Advisor:** Dr. Víctor Manuel Zamudio Rodríguez.
-* **Publication:** [Multi-criteria and Fuzzy Logic System for Health and Wellbeing Monitoring](https://ieeexplore.ieee.org/document/9486555) (Published in IEEE Xplore).
+* **Publication 1:** [Design and Implementation of a Embedded Fuzzy Multi-criteria Group Decision Making System for Wellbeing, Health and Security]([https://ieeexplore.ieee.org/document/9486555](https://ieeexplore.ieee.org/document/9155007)) (Published in IEEE Xplore).
+* **Publication 2:** [Design of a Smart Device with Fuzzy Multi-criteria Group Decision Making System for The Elderly](https://ieeexplore.ieee.org/document/9486555) (Published in IEEE Xplore).
+
 
 \---
 
