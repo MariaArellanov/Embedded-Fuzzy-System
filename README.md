@@ -1,10 +1,13 @@
 # Multi-criteria Fuzzy System Applied to Elderly Healthcare
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
 
 This repository contains the implementation of the Master's Thesis project focused on intelligent health and wellbeing monitoring, developed at the **Tecnológico Nacional de México (TecNM) campus León** between 2019 and 2021. The system integrates **Multi-Criteria Group Decision Making (MCGDM)** algorithms and **Fuzzy Control Systems (FCS)** to evaluate health status through smart device data processing.
 
 ## Project Information
 
 * **Institution:** Tecnológico Nacional de México, Campus León.
+* ****María Arellano** - *Main Developer & Researcher*
 * **Thesis Advisor:** Dr. Víctor Manuel Zamudio Rodríguez.
 * **Publication:** [Multi-criteria and Fuzzy Logic System for Health and Wellbeing Monitoring](https://ieeexplore.ieee.org/document/9486555) (Published in IEEE Xplore).
 
@@ -51,12 +54,15 @@ The system requires Python 3.x and the following libraries:
     ```
 
 \---
-
 ## Citation
-
-If you use this code or the methodology in your research, please cite the original paper:
-
-> M. Arellano, V. M. Zamudio, et al., "Multi-criteria and Fuzzy Logic System for Health and Wellbeing Monitoring," 2021. \[IEEE Xplore].
+If you use this software in your research, please cite it as follows:
+```bibtex
+@software{Arellano_Embedded_MCGDM_System_2021,
+  author = { M. Arellano, V. M. Zamudio, et al.},
+  title = {Monitoring Patients Using Intelligent Agents: A MAS Approach},
+  year = {2021},
+  publisher = {Zenodo}
+}
 
 \---
 
