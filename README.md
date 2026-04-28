@@ -7,7 +7,7 @@ This repository contains the implementation of the Master's Thesis project focus
 ## Project Information
 
 * **Institution:** Tecnológico Nacional de México, Campus León.
-* ****María Arellano** - *Main Developer & Researcher*
+* **By: María Arellano** - *Main Developer & Researcher*
 * **Thesis Advisor:** Dr. Víctor Manuel Zamudio Rodríguez.
 * **Publication:** [Multi-criteria and Fuzzy Logic System for Health and Wellbeing Monitoring](https://ieeexplore.ieee.org/document/9486555) (Published in IEEE Xplore).
 
