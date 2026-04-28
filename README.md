@@ -37,7 +37,7 @@ In addition to the computational logic, this project includes the modeling for a
 1. **Clone the repository:**
 
 &#x20;   ```bash
-    git clone https://github.com/your-username/fuzzy-health-system.git
+    git clone https://github.com/MariaArellanov/Embedded-Fuzzy-System.git
     ```
 
 2. **Prerequisites:**
