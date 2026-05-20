@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
 
-This research presents the implementation of the Master's Thesis project focused on intelligent health and wellbeing monitoring, developed at the **Tecnológico Nacional de México (TecNM) campus León** between 2019 and 2021. The system integrates **Multi-Criteria Group Decision Making (MCGDM)** algorithms and **Fuzzy Control Systems (FCS)** to evaluate health status through smart device data processing.
+This research project presents the implementation of an intelligent monitoring system focused on three critical objectives: the health, safety, and well-being of older adults. It was developed at the León campus of the National Technological Institute of Mexico (TecNM) between 2019 and 2021. The system integrates **Multi-Criteria Group Decision Making (MCGDM)** algorithms and **Fuzzy Control Systems (FCS)** to assess health status by processing data from smart devices.
 
 ## Project Information
 
