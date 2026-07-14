@@ -1,7 +1,7 @@
 # Multi-criteria Fuzzy System Applied to Elderly Healthcare
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
-[![Zenodo downloads](https://img.shields.io/badge/dynamic/json?style=flat&label=downloads&query=%24.stats.downloads&url=https%3A%2F%2Fzenodo.org%2Fapi%2Frecords%2F19859943&logo=zenodo&color=1071b8)](https://zenodo.org/records/19859943)
+![Descargas totales](https://img.shields.io/github/downloads/MariaArellanov/Embedded-Fuzzy-System/total)
 
 This research project presents the implementation of an intelligent monitoring system focused on three critical objectives: the health, safety, and well-being of older adults. It was developed at the León campus of the National Technological Institute of Mexico (TecNM) between 2019 and 2021. The system integrates **Multi-Criteria Group Decision Making (MCGDM)** algorithms and **Fuzzy Control Systems (FCS)** to assess health status by processing data from smart devices.
 
