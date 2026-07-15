@@ -63,8 +63,7 @@ If you use this software in your research, please cite it as follows:
 @software{Arellano_Embedded_MCGDM_System_2021,
   author = { M. Arellano, V. M. Zamudio, et al.},
   title = {Monitoring Patients Using Intelligent Agents: A MAS Approach},
-  year = {2021},
-  publisher = {Zenodo}
+  year = {2021}
 }
 
 \---
